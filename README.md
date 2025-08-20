@@ -1,5 +1,8 @@
 # Windows Icons Collection
 
+![Screenshot](https://imgur.com/a/DPMgf3w)
+> A windows start menu using these icons
+
 A curated collection of Windows icons converted from the original candy icons by **Eliver Lara**.  
 
 > ⚠️ **Credit & License:**  
