@@ -1,25 +1,29 @@
-![](preview/candy.png)
+# Windows Icons Collection
 
->An icon theme colored with sweet gradients
+A curated collection of Windows icons converted from the original candy icons by **Eliver Lara**.  
 
-## Installation
+> ⚠️ **Credit & License:**  
+> This project is a fork of Eliver Lara's work. All original icons remain under their original license, which is preserved in this repository. Please respect the license when using these icons.
 
-- Download the `.zip` file ([directly from github](https://github.com/EliverLara/candy-icons/archive/refs/heads/master.zip) or from [gnome-look](https://www.opendesktop.org/p/1305251/)) 
+---
 
-- Extract the `.zip` file to the icons directory i.e. `/usr/share/icons/`, `~/.local/share/.icons/`  or `~/.icons/` (create it if necessary).
+## What’s New Here
 
-## Usage
+I’ve converted the original SVG icons (with their symlinks) into PNGs, and then packaged them as `.ico` files ready for Windows. This was done in bulk to make them easy to use, while keeping the structure and naming intact.  
 
-To set the theme in Gnome, run the following commands in Terminal:
+---
 
-![](preview/cli.png)
+## Download
 
-or Change via distribution specific `tweak-tool`.
+You can download all icons as a ZIP file from the releases section or from here:  
+[Download ZIP](https://github.com/crz-dev/candy-icons-windows/archive/refs/heads/main.zip)
 
-## Previews
+---
 
-![](preview/icons.png)
+## How to Use in Windows
+  
+1. Right-click on a file, select **Properties** → **Shortcut** → **Change Icon…**  
+2. Click **Browse**, then select the desired `.ico` from this collection.  
+3. Apply and enjoy your custom icons! On windows!  
 
-You can also combine this icon pack with [sweet-folders](https://github.com/EliverLara/Sweet-folders) to get an awesome custom experience:
-
-![](preview/folders.png)
+> I organized the icons into apps/folders/system to make them easier to find based on the desired icon.
