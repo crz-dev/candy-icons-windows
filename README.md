@@ -1,12 +1,16 @@
 # Windows Icons Collection
 
-[![Start-Menu.png](https://i.postimg.cc/NjFp2HPc/Start-Menu.png)](https://postimg.cc/jDVzGLbg)
-> A windows start menu using these icons
-
 A curated collection of Windows icons converted from the original candy icons by **Eliver Lara**.  
 
 > ⚠️ **Credit & License:**  
 > This project is a fork of Eliver Lara's work. All original icons remain under their original license, which is preserved in this repository. Please respect the license when using these icons.
+
+---
+
+## Preview
+
+[![Start-Menu.png](https://i.postimg.cc/NjFp2HPc/Start-Menu.png)](https://postimg.cc/jDVzGLbg)
+> A windows start menu using these icons
 
 ---
 
