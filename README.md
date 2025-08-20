@@ -3,14 +3,7 @@
 A curated collection of Windows icons converted from the original candy icons by **Eliver Lara**.  
 
 > ⚠️ **Credit & License:**  
-> This project is a fork of Eliver Lara's work. All original icons remain under their original license, which is preserved in this repository. Please respect the license when using these icons.
-
----
-
-## Preview
-
-[![Start-Menu.png](https://i.postimg.cc/NjFp2HPc/Start-Menu.png)](https://postimg.cc/jDVzGLbg)
-> A windows start menu using these icons
+> This project is a fork for compatibility of Eliver Lara's theme. All original icons remain under their original license, which is preserved in this repository. Please respect the license when using these icons.
 
 ---
 
@@ -19,6 +12,13 @@ A curated collection of Windows icons converted from the original candy icons by
 I’ve converted the original linux SVGs (with their symlinks) into PNGs, and then packaged them as `.ico` files ready for Windows. This was done in bulk to make them easy to use, while keeping the structure and naming intact.  
 
 I organized the output icons into separate folders (apps/folders/system) for easier search of the desired icon.
+
+---
+
+## Preview
+
+[![Start-Menu.png](https://i.postimg.cc/NjFp2HPc/Start-Menu.png)](https://postimg.cc/jDVzGLbg)
+> A windows start menu using these icons
 
 ---
 
