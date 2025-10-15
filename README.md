@@ -27,6 +27,9 @@ I organized the output icons into separate folders (apps/folders/system) for eas
 You can download all icons as a ZIP file from the releases section or from here:  
 [Download ZIP](https://github.com/crz-dev/candy-icons-windows/archive/refs/heads/main.zip)
 
+**I recommend using the multisized icons for consistency accross the system. (They also look better res/cropped)**
+> There is also some slightly modified icons like a blue steam or classic proton in it.
+
 ---
 
 ## How to Use in Windows
